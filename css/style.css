@@ -25,12 +25,10 @@
 	border: none;
 }
 
-/* Positioning Styles */
-.center-sensitive-square {
-	width: 75%;
-	margin: 0 auto;
-	max-width: 320px;
-	max-height: 320px;
+/* Text Styles */
+.date {
+	background-color: #A93333;
+	color: white;
 }
 
 /* Jumbotron Styles */
@@ -40,13 +38,16 @@
 	background: transparent;
 }
 
+.left {
+	text-align: left;
+}
+
 /* Button Styles */
 .btn .btn-primary .btn-lg {
 	background: transparent;
 }
 
 #freshbtn {
-	font-family: 'Alegreya', serif;
 	color: black;
 	border-radius: 0;
 	border: solid;
@@ -59,10 +60,6 @@
 	color: white;
 	border-color: #A93333;
 	background: #A93333;
-}
-
-.extra-margin {
-	margin: 20px;
 }
 
 /* Custom Selection */

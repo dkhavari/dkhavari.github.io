@@ -1,0 +1,59 @@
+/* Navbar Styles */
+.navbar {
+	font-family: 'Alegreya', serif;
+	color: black;
+}
+
+#navbar > ul > li > a {
+	color: black;
+}
+
+.navbar .navbar-brand {
+    color: black;
+}
+
+.navbar .navbar-brand:hover {
+    color: black;
+}
+
+.navbar {
+	background: white;
+	border-width: 0;
+}
+
+#navbar {
+	border: none;
+}
+
+/* Jumbotron Styles */
+.jumbotron {
+	font-family: 'Alegreya', serif;
+	text-align: center;
+	background: transparent;
+}
+
+/* Button Styles */
+.btn .btn-primary .btn-lg {
+	background: transparent;
+}
+
+#freshbtn {
+	color: black;
+	border-radius: 0;
+	border: solid;
+	border-width: 2px;
+	border-color: black;
+	background: transparent;
+}
+
+#freshbtn:hover {
+	color: white;
+	border-color: #A93333;
+	background: #A93333;
+}
+
+/* Custom Selection */
+::selection {
+	color: white;
+  	background: #A93333; /* WebKit/Blink Browsers */
+}

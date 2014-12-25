@@ -25,6 +25,14 @@
 	border: none;
 }
 
++/* Positioning Styles */
++.center-sensitive-square {
++	width: 75%;
++	margin: 0 auto;
++	max-width: 320px;
++	max-height: 320px;
++}
+
 /* Text Styles */
 .date {
 	background-color: #A93333;

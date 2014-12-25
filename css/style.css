@@ -33,6 +33,10 @@
 	max-height: 320px;
 }
 
+.extra-margin {
+	margin: 20px;
+}
+
 /* Text Styles */
 .date {
 	background-color: #A93333;
